@@ -1,0 +1,18 @@
+<code_scheme name="personal" version="173">
+  <PostgresCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="0" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+    <option name="INSERT_OPENING" value="3" />
+    <option name="INSERT_CONTENT" value="3" />
+    <option name="INSERT_CLOSING" value="6" />
+    <option name="INSERT_EL_WRAP" value="1" />
+    <option name="ORDER_EL_WRAP" value="1" />
+  </PostgresCodeStyleSettings>
+</code_scheme>
